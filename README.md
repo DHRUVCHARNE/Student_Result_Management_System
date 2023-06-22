@@ -6,4 +6,7 @@ JQuery/AJAX and BootStrap for the frontend,PhP in
 Backend and Mysql for Database.
 [Here on this link, demo of the project can be seen ]
 (http://studentresult.free.nf/)
+If you are interested in demo please 
+mail me at dhruv4ne at gmail dot com
+to recieve admin and student login information
 
